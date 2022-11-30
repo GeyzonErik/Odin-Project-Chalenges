@@ -1,2 +1,2 @@
 # Odin-Project-Chalenges
-A simplified place to put almost all o my solutions
+A simplified place to put almost all of my solutions
